@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [SIngle Price Grid by Earthyy](...)
+- Live Site URL: [Single Price Grid Component by Earthyy](https://earthyy-single-price-grid-component.netlify.app/)
 
 ## My process
 
